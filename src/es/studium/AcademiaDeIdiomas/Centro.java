@@ -6,7 +6,7 @@ public class Centro
 	private String nombre;
 	private String direccion;
 	private String codigo;
-	// CONSTRUCTORES VACIOS O POR DEFECTO
+	// CONSTRUCTORES VACIOS 
 	public Centro()
 	{
 		nombre = "";
